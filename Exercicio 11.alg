@@ -1,4 +1,4 @@
-algoritmo "Exercicio 11"
+algoritmo "Exercicio .11"
 //Leia uma velocidade em m/s (metros por segundo) e apresente-a convertida em km/h (quilometros por hora).
 var
    m, k:real
