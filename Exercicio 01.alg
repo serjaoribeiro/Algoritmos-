@@ -1,11 +1,11 @@
 algoritmo "Lista numero 1"
 
-var   Nu: Inteiro
+var   nu: Inteiro
 
 
 inicio
       escreval("Digite um numero!")
-      leia(Nu)
-      escreval("seu numero e", NU)
+      leia(nu)
+      escreval("seu numero e", nu)
 
 fimalgoritmo
